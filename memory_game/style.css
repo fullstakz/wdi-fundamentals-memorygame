@@ -57,6 +57,10 @@ p {
 	font-size: 18px;
 }
 
+button {
+	font-family: "Droid Serif", Serif;
+}
+
 img {
 	margin-top: 40px
 	margin-right: 8px;
